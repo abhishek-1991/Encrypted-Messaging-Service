@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Mapactivity!</string>
+    <string name="app_name">EMS</string>
+    <string name="backg">Background</string>
+    <string name="edittext1main12">Enter Password</string>
+    <string name="edittext2main12">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="compile">Compile Message</string>
+    <string name="To">To</string>
+    <string name="id">ID</string>
+    <string name="compose">Compose</string>
+    <string name="send">Send</string>
+    <string name="contacts">Contacts</string>
+    <string name="pleasewait">Please Wait &#8230;</string>
+    <string name="c">Contact Name</string>
+    <string name="pu_id">Public id</string>
+    <string name="m_n">Mobile Number</string>
+    <string name="SAVE">Save</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="new_contact">Add New Contact</string>
+    <string name="newpass">New Password</string>
+    <string name="reset">Reset</string>
+
+</resources>
